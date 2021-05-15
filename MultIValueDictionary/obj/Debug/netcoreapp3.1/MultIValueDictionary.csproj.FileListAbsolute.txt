@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.exe
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.deps.json
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.runtimeconfig.json
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.runtimeconfig.dev.json
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.dll
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\bin\Debug\netcoreapp3.1\MultIValueDictionary.pdb
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.dll
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.pdb
+\\Mac\Home\Desktop\windows\Projects\MultIValueDictionary\MultIValueDictionary\obj\Debug\netcoreapp3.1\MultIValueDictionary.genruntimeconfig.cache
